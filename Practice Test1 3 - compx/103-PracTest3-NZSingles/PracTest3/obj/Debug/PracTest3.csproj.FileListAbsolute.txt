@@ -1,0 +1,12 @@
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracTest3-2015-Singles\PracTest3\bin\Debug\PracTest3.exe.config
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\bin\Debug\PracTest3.exe.config
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\bin\Debug\PracTest3.exe
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\bin\Debug\PracTest3.pdb
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\obj\Debug\PracTest3.csproj.AssemblyReference.cache
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\obj\Debug\PracTest3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\obj\Debug\PracTest3.Form1.resources
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\obj\Debug\PracTest3.Properties.Resources.resources
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\obj\Debug\PracTest3.csproj.GenerateResource.cache
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\obj\Debug\PracTest3.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\obj\Debug\PracTest3.exe
+C:\Users\lucasziN\Desktop\Practice Test1 3 - compx\103-PracTest3-NZSingles\PracTest3\obj\Debug\PracTest3.pdb

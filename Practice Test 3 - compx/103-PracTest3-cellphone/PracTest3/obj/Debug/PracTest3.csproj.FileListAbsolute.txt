@@ -1,0 +1,51 @@
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\103-Practest3-2009\PracTest3\bin\Debug\PracTest2.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\103-Practest3-2009\PracTest3\bin\Debug\PracTest2.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\103-Practest3-2009\PracTest3\obj\Debug\ResolveAssemblyReference.cache
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\103-Practest3-2009\PracTest3\obj\Debug\PracTest2.Form1.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\103-Practest3-2009\PracTest3\obj\Debug\PracTest2.Properties.Resources.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\103-Practest3-2009\PracTest3\obj\Debug\PracTest3.csproj.GenerateResource.Cache
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\103-Practest3-2009\PracTest3\obj\Debug\PracTest2.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\103-Practest3-2009\PracTest3\obj\Debug\PracTest2.pdb
+\\oslo.scms.waikato.ac.nz\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\103-Practest3-2009\PracTest3\obj\Debug\PracTest2.exe
+\\oslo.scms.waikato.ac.nz\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\103-Practest3-2009\PracTest3\obj\Debug\PracTest2.pdb
+\\oslo.scms.waikato.ac.nz\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\103-Practest3-2009\PracTest3\bin\Debug\PracTest2.exe
+\\oslo.scms.waikato.ac.nz\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\103-Practest3-2009\PracTest3\bin\Debug\PracTest2.pdb
+\\oslo.scms.waikato.ac.nz\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\103-Practest3-2009\PracTest3\obj\Debug\ResolveAssemblyReference.cache
+\\oslo.scms.waikato.ac.nz\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\103-Practest3-2009\PracTest3\obj\Debug\PracTest2.Form1.resources
+\\oslo.scms.waikato.ac.nz\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\103-Practest3-2009\PracTest3\obj\Debug\PracTest2.Properties.Resources.resources
+\\oslo.scms.waikato.ac.nz\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\103-Practest3-2009\PracTest3\obj\Debug\PracTest3.csproj.GenerateResource.Cache
+\\oslo.scms.waikato.ac.nz\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\103-Practice3-2010\PracTest3\obj\Debug\PracTest2.exe
+\\oslo.scms.waikato.ac.nz\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\103-Practice3-2010\PracTest3\obj\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2010\103-Practice3-2010\PracTest3\obj\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\2010\103-Practice3-2010\PracTest3\obj\Debug\PracTest2.pdb
+\\oslo.scms.waikato.ac.nz\home\nkanji\Desktop\103-PracticeTest3-2010 - cellphone\PracTest3\obj\Debug\PracTest2.exe
+\\oslo.scms.waikato.ac.nz\home\nkanji\Desktop\103-PracticeTest3-2010 - cellphone\PracTest3\obj\Debug\PracTest2.pdb
+\\oslo.scms.waikato.ac.nz\home\nkanji\Desktop\103-PracticeTest3-2010 - cellphone\PracTest3\bin\Debug\PracTest2.exe
+\\oslo.scms.waikato.ac.nz\home\nkanji\Desktop\103-PracticeTest3-2010 - cellphone\PracTest3\bin\Debug\PracTest2.pdb
+\\oslo.scms.waikato.ac.nz\home\nkanji\Desktop\103-PracticeTest3-2010 - cellphone\PracTest3\obj\Debug\ResolveAssemblyReference.cache
+\\oslo.scms.waikato.ac.nz\home\nkanji\Desktop\103-PracticeTest3-2010 - cellphone\PracTest3\obj\Debug\PracTest2.Form1.resources
+\\oslo.scms.waikato.ac.nz\home\nkanji\Desktop\103-PracticeTest3-2010 - cellphone\PracTest3\obj\Debug\PracTest2.Properties.Resources.resources
+\\oslo.scms.waikato.ac.nz\home\nkanji\Desktop\103-PracticeTest3-2010 - cellphone\PracTest3\obj\Debug\ResGen.read.1.tlog
+\\oslo.scms.waikato.ac.nz\home\nkanji\Desktop\103-PracticeTest3-2010 - cellphone\PracTest3\obj\Debug\ResGen.write.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracticeTest3- cellphone\PracTest3\obj\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracticeTest3- cellphone\PracTest3\obj\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracticeTest3- cellphone\PracTest3\obj\Debug\ResolveAssemblyReference.cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracticeTest3- cellphone\PracTest3\obj\Debug\PracTest2.Form1.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracticeTest3- cellphone\PracTest3\obj\Debug\PracTest2.Properties.Resources.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracticeTest3- cellphone\PracTest3\obj\Debug\ResGen.read.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracticeTest3- cellphone\PracTest3\obj\Debug\ResGen.write.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracticeTest3- cellphone\PracTest3\bin\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracticeTest3- cellphone\PracTest3\bin\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracTest3- cellphone\PracTest3\obj\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest3\Templates\103-PracTest3- cellphone\PracTest3\obj\Debug\PracTest2.pdb
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\bin\Debug\PracTest2.exe.config
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\bin\Debug\PracTest2.exe
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\bin\Debug\PracTest2.pdb
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\obj\Debug\PracTest3.csproj.AssemblyReference.cache
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\obj\Debug\PracTest3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\obj\Debug\PracTest2.Form1.resources
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\obj\Debug\PracTest2.Properties.Resources.resources
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\obj\Debug\PracTest3.csproj.GenerateResource.cache
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\obj\Debug\PracTest3.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\obj\Debug\PracTest2.exe
+C:\Users\lucasziN\Desktop\Practice Test 3 - compx\103-PracTest3-cellphone\PracTest3\obj\Debug\PracTest2.pdb
